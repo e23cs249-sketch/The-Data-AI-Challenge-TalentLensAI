@@ -9,7 +9,6 @@ This submission is aligned to the hackathon prompt: it includes a working backen
 * **GitHub Repository:** Complete working code, frontend, and backend
 * **Approach PDF:** `submission_deck.pdf` — detailed explanation of the ranking algorithm and methodology
 * **Ranked Output:** `output/submission.csv` — top 100 ranked candidates with explainability scores
-* **Current Output Copy:** `output/crt_output.csv`
 
 ## Architecture
 Hybrid scoring with semantic embeddings and rule-based matching.
@@ -75,9 +74,6 @@ Recruiters often review hundreds of candidate profiles and miss highly relevant 
 * Job description: `DATA/job_description.txt`
 * Channel sample IDs: `DATA/sample_submission.csv`
 * Ranked output: `output/submission.csv`
-* Current output copy: `output/crt_output.csv`
-
-> Challenge dataset link: Click Here
 
 ## Approach
 This system uses a hybrid scoring model combining semantic embeddings and traditional keyword matching.
